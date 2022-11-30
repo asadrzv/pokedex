@@ -1,6 +1,6 @@
 # Pokédex
 
-This is a basic Pokédex iOS Swift app using the [PokéAPI API](https://pokeapi.co/).
+This is a basic Pokédex iOS SwiftUI app using the [PokéAPI](https://pokeapi.co/).
 
 Time spent: **2** hours spent in total
 
@@ -8,7 +8,7 @@ Time spent: **2** hours spent in total
 
 The following functionality is completed:
 
-- [x] List of all Kanto region 151 Pokémon
+- [x] List all original 151 Kanto region Pokémon
 - [x] Tapping a Pokémon cell will open a basic details view
 
 ## Video Walkthrough
